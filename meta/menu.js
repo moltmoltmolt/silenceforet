@@ -4,7 +4,7 @@ var menu = " \
       [à propos](/texte/texte.htm) \
       <br/> \
       #### EXPOSITIONS \
-      * [Malacologie #1](/malacologie1.htm) \
+      * [Castel(/malacologie1.htm) \
       #### RESIDENCES \
       * [Malacologie #1](/malacologie1.htm) \
       #### EDITIONS \
