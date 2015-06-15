@@ -22,5 +22,6 @@ var menu = " \
       * [Vrac](/vrac.htm) \
       #### INFO \
       * [contact](/contact.htm) \
+      * [coucou](/info/page               s.htm) \
     </div> \
 ";
