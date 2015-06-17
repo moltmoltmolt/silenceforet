@@ -4,6 +4,8 @@ var menu = " \
       <br/> \
       [Info](/texte/texte.htm) \
       <br/> \
+      [artistes](/artistes.htm) \
+      <br/> \
       [contact](/contact.htm) \
       <br/> \
       <br/> \
