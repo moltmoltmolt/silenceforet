@@ -1,6 +1,6 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      #### LE COLLECTIF \
+      #### Silence Forêt \
       [Info](/texte/texte.htm) \
       <br/> \
       * [contact](/contact.htm) \
