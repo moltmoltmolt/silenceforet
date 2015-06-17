@@ -4,6 +4,6 @@ var menu = " \
       <br/> \
       [Info](/texte/texte.htm) \
       <br/> \
-      * [contact](/contact.htm) \
+      [contact](/contact.htm) \
     </div> \
 ";
