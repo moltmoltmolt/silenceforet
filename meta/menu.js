@@ -1,7 +1,7 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      #### Silence Forêt \
       [Silence Forêt](/silence-foret.htm) \
+      <br/> \
       <br/> \
       [Info](/texte/texte.htm) \
       <br/> \
