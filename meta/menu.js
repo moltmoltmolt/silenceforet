@@ -1,5 +1,6 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
+    Silence Fôret
       #### LE COLLECTIF \
       [à propos](/texte/texte.htm) \
       <br/> \
@@ -7,11 +8,6 @@ var menu = " \
       * [Castel(/malacologie1.htm) \
       #### RESIDENCES \
       * [Malacologie #1](/malacologie1.htm) \
-      #### EDITIONS \
-      * [Malacologie #1](/malacologie1.htm) \
-      #### INFO \
       * [contact](/contact.htm) \
-      * [facebook](/facebook.htm) \
-      * [newsletter](/newsletter.htm) \
     </div> \
 ";
