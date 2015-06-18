@@ -1,6 +1,6 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      [Silence Forêt](/index.htm) \
+      [SILENCE FORÊT](/index.htm) \
       <br/> \
       <br/> \
       [Info](/texte/texte.htm) \
