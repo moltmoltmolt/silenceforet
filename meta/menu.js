@@ -16,6 +16,5 @@ var menu = " \
       <br/> \
       [Castel #3](/castel-3.htm) \
       <br/> \
-      [Castel #4](/castel-4.htm) \
     </div> \
 ";
