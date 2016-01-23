@@ -3,7 +3,7 @@ var menu = " \
       [SILENCE FORÊT](/index.htm) \
       <br/> \
       <br/> \
-      [info](/texte/texte.htm) \
+      [info](/about/about.htm) \
       <br/> \
       [artistes](/artistes.htm) \
       <br/> \
