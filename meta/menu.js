@@ -5,7 +5,7 @@ var menu = " \
       <br/> \
       [x](/about.htm) \
       <br/> \
-      [contact](/artistes.htm) \
+      [contact](/contact.htm) \
       <br/> \
       <br/> \
       [Castel #1](/castel-1.htm) \
