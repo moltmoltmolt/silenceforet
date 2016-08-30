@@ -8,6 +8,8 @@ var menu = " \
       [contact](/contact.htm) \
       <br/> \
       <br/> \
+      [ICI-BAS](/icibas.htm) \
+      <br/> \
       [Castel #1](/castel-1.htm) \
       <br/> \
       [Castel #2](/castel-2.htm) \
