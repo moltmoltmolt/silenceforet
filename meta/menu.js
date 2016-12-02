@@ -16,7 +16,7 @@ var menu = " \
       <br/> \
       [Cream of Trust](/cream.htm) \
       <br/> \
-      [M/C/I](/mci.htm) \
+      [M/C/I](/cream.htm) \
       <br/> \
       [Ici-Bas](/icibas.htm) \
       <br/> \
