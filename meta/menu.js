@@ -7,9 +7,9 @@ var menu = " \
       <br/> \
       <br/> \
       <br/> \
-      [Castel #1](/castel-1.htm) \
+      [Castel#1](/castel-1.htm) \
       <br/> \
-      [Castel #2](/castel-2.htm) \
+      [Castel#2](/castel-2.htm) \
       <br/> \
       [Cream](/cream.htm) \
       <br/> \
