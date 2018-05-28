@@ -15,3 +15,4 @@ cd "$(dirname "$0")" \
     && git commit -am 'changes on Boubou' \
     && P 'git push origin gh-pages' \
     && git push origin gh-pages
+
