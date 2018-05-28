@@ -20,6 +20,6 @@ var menu = " \
       <br/> \
       [R.A.V.E.](/rave.htm) \
       <br/> \
-      <br/> \ 
+      <br/> \
       </div> \
 ";
