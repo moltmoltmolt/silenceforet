@@ -17,7 +17,6 @@ var menu = `
       <br/>
       [Ici-Bas](/icibas.htm)
       <br/>
-      <br/>
       [R.A.V.E.](/rave.htm)
       <br/>
       <br/>
