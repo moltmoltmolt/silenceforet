@@ -18,7 +18,7 @@ var menu = " \
       [Ici-Bas](/icibas.htm) \
       <br/> \
       <br/> \
-      [RAVE](/rave.htm) \ 
+      [R.A.V.E.](/rave.htm) \ 
       <br/> \
       <br/> \ 
       </div> \
