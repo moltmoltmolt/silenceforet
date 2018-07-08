@@ -19,6 +19,9 @@ var menu = `
       <br/>
       [R.A.V.E.](/rave.htm)
       <br/>
+      [The Lodge](/lodge.htm)
+      <br/>
+      <br/>
       <br/>
     </div>
 `;
