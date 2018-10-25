@@ -6,6 +6,8 @@ var menu = `
       <br/>
       [.about](/about.htm)
       <br/>
+      [editions](/editions.htm) 
+      <br/>
       [Castel#1](/castel-1.htm)
       <br/>
       [Castel#2](/castel-2.htm)
