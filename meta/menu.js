@@ -4,9 +4,11 @@ var menu = `
       <br/>
       <br/>
       <br/>
-      [.about](/about.htm)
+      [/about](/about.htm)
       <br/>
-      [prints/editions](/editions.htm)
+      [items](/shop.htm)
+      <br/>
+      [prints](/editions.htm)
       <br/>
       [Castel#1](/castel-1.htm)
       <br/>
