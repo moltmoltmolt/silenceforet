@@ -6,8 +6,6 @@ var menu = `
       <br/>
       [/about](/about.htm)
       <br/>
-      [items](/items.htm)
-      <br/>
       [prints](/editions.htm)
       <br/>
       [Castel#1](/castel-1.htm)
@@ -23,6 +21,8 @@ var menu = `
       [R.A.V.E.](/rave.htm)
       <br/>
       [The Lodge](/lodge.htm)
+      <br/>
+      [to buy](/items.htm)
       <br/>
       <br/>
       <br/>
