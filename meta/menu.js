@@ -22,7 +22,7 @@ var menu = `
       <br/>
       [the Lodge](/lodge.htm)
       <br/>
-      [to buy](/items.htm)
+      [to wear](/items.htm)
       <br/>
       <br/>
       <br/>
