@@ -16,6 +16,8 @@ var menu = `
       <br/>
       [Ici-Bas](/icibas.htm)
       <br/>
+      [Studio_3](/studio3.htm) 
+      <br/>
       [Velella_Velella_](/editions.htm)
       <br/>
       [R.A.V.E.](/rave.htm)
